@@ -46,5 +46,4 @@ Hệ thống sẽ dừng và còi sẽ báo hiệu nếu như hệ thống phát
 ### Khung băng chuyền:
 ![Image](https://github.com/user-attachments/assets/c55bb06e-ff47-48ab-84ee-68fc08c87784)
 ---
-## Demo:
 
